@@ -1,4 +1,4 @@
-module common-fast
+module github.com/gopering/common-fast
 
 go 1.23.3
 
