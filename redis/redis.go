@@ -1,11 +1,11 @@
 package redis
 
 import (
-	"common-fast/errorx"
-	"common-fast/logx"
 	"context"
 	"fmt"
 	redis2 "github.com/go-redis/redis/v8"
+	"github.com/gopering/common-fast/errorx"
+	logx "github.com/gopering/common-fast/logx"
 	"github.com/zeromicro/go-zero/core/stores/redis"
 )
 
